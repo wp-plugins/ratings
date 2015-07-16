@@ -1,5 +1,5 @@
-=== Ratings ===
-Plugin Name: Ratings
+=== Rating ===
+Plugin Name: Rating
 Version: 1.0.0
 Donate link: 
 URI: 
