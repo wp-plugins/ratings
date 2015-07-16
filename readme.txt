@@ -12,11 +12,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Author: Adminisrator
 Contributors: Adminisrator
 
-Ratings widget - simple plugin to create Rating widget for website Visitors.
+Rating - Ratings widget - simple plugin to create Rating widget for website Visitors.
 
 == Description ==
 
-Ratings widget - simple plugin to create Rating widget for website Visitors.
+Rating - Ratings widget - simple plugin to create Rating widget for website Visitors.
 
 Ratings plugin work across major web browsers.
 
