@@ -1,5 +1,5 @@
-=== Rating ===
-Plugin Name: Rating
+=== Rating Widget ===
+Plugin Name: Rating Widget
 Version: 1.0.0
 Donate link: 
 URI: 
@@ -9,12 +9,14 @@ Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Author: Adminisrator ★ ★ ★ ★ ★
+Author: Adminisrator 
 Contributors: Adminisrator
 
 Rating - Ratings widget - simple plugin to create Rating widget for website Visitors.
 
 == Description ==
+
+★ ★ ★ ★ ★
 
 Rating - Ratings widget - simple plugin to create Rating widget for website Visitors.
 
