@@ -1,5 +1,5 @@
-=== Rating Widget ===
-Plugin Name: Rating Widget
+=== Rating ===
+Plugin Name: Rating
 Version: 1.0.0
 Donate link: 
 URI: 
@@ -16,7 +16,7 @@ Rating - Ratings widget - simple plugin to create Rating widget for website Visi
 
 == Description ==
 
-★ ★ ★ ★ ★
+= ★ ★ ★ ★ ★ =
 
 Rating - Ratings widget - simple plugin to create Rating widget for website Visitors.
 
