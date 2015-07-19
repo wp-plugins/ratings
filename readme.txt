@@ -3,7 +3,7 @@ Plugin Name: Rating
 Version: 1.0.0
 Donate link: 
 URI: 
-Tags: rating, ratings, vote, voting, votings, poll, polls, star, stars
+Tags: review, reviews, rate, rating, ratings, vote, voting, votings, votes, poll, polls, star, stars, 5 stars, 5 star, five stars, five star, social, like, dislike, thumb rating, voting system, widget, widgets, Rating Widget, Star Review System, Review System, star rating, woocommerce, WordPress, tool, tools, system, widget, platform, rating plugin, rating tool, rating tools, rating system, rating widget, rating platform, ratings tool, ratings tools, ratings system, ratings widget, ratings platform, voting plugin, vote plugin, voting tool, voting tools, voting system, voting widget, voting platform, votings tool, votings tools, votings system, votings widget, votings platform, review tool, review tools, review system, review widget, review platform, review plugin, reviews tool, reviews tools, reviews system, reviews widget, reviews platform, sale tool, sale tools, sale system, sales widget, sales tool, sales tools, sales widget, product rating, product voting, product review, rate product, vote product, Post, plugin, admin, posts, sidebar, shortcode, google, twitter, facebook, images, page, comments, image, voting contest, multi rating
 Requires at least: 3.9
 Tested up to: 4.2.2
 Stable tag: trunk
@@ -17,6 +17,7 @@ Rating - Ratings widget - simple plugin to create Rating widget for website Visi
 == Description ==
 
 = ★ ★ ★ ★ ★ =
+= ☆ ☆ ☆ ☆ ☆ =
 
 Rating - Ratings widget - simple plugin to create Rating widget for website Visitors.
 
