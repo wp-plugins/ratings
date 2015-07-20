@@ -33,6 +33,26 @@ This plugin is standalone and FREE of any charges.
 
 4. To Save an existing Rating and start a new one, simple Drag&Drop the `Ratings` widget from the Sidebar with this widget to `Deactivated widgets`. Your raiting results will be saved with this deactivated widget. The results can be viewed at `Ratings` in main menu of your admin area.
 
+== Other ==
+
+= Some examples about "how to use a Rating plugin?" =
+
+You can use this rating plugin system in different ways, for example like <br />
+
+* comment rating
+* 5 star rating (five star rating system)
+* "like" or "dislike" for your answers or questions, that you can put to the vote (voting contest)
+* voting contest for any information questions or answers
+* or simple just for "rate" of some "rate post", or "rate comment", or "rate image" (also as "multi rating system")
+* comment rating (comments rating). Your website visitors can vote for comments (comments voting)
+* post rating (posts rating). Your website visitors can vote for posts (posts voting)
+* social vote (social rating)
+* image voting, image rating or image review
+
+
+With this Rating plugin (ratings widget) you can create your own rating platform or register and make a rating platform automatically, using ratings widget.
+
+
 == Frequently Asked Questions ==
 
 FAQ
