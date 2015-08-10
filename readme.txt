@@ -17,6 +17,7 @@ Rating - Ratings widget - simple plugin to create Rating widget for website Visi
 == Description ==
 
 = ★ ★ ★ ★ ★ =
+RATING WIDGET IS STANDALONE PLUGIN/WIDGET TO MAKE YOUR OWN RATING, VOTING, REVIEW OR JUST POLLING
 = ☆ ☆ ☆ ☆ ☆ =
 
 Rating - Ratings widget - simple plugin to create Rating widget for website Visitors.
@@ -29,7 +30,7 @@ This plugin is standalone and FREE of any charges.
 
 1. Install the plugin through `Plugins` menu in WordPress or just Upload the plugin folder `ratings` to the `/wp-content/plugins/` directory of your WordPress installation.
 2. Activate the plugin through the `Plugins` menu in WordPress
-3. In menu of your WordPress installation go to `Appearance` -> `Widgets` and simple Drag&Drop the `Ratings` widget from `Available widgets` to any Sidebar of your website.
+3. In menu of your WordPress installation go to `Appearance` -> `Widgets` and simply Drag&Drop the `Ratings` widget from `Available widgets` to any Sidebar of your website.
 
 4. To Save an existing Rating and start a new one, simple Drag&Drop the `Ratings` widget from the Sidebar with this widget to `Deactivated widgets`. Your raiting results will be saved with this deactivated widget. The results can be viewed at `Ratings` in main menu of your admin area.
 
