@@ -49,3 +49,17 @@
 .ratings_area_body ul li:hover .ratings_area_li_text{
     color: #333;
 }
+/*
+styles for portable device
+*/
+@media only screen and (max-width: 1124px) {
+    
+}
+@media only screen and (max-width: 758px) {
+/*
+vertical tablet computer
+*/
+}
+@media only screen and (max-width: 524px) {
+/*phone*/
+}
