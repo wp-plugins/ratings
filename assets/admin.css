@@ -86,3 +86,20 @@
 .percent a{
     position: relative;z-index: 1;font-weight: bold;left: 5px;
 }
+/*default style */
+@media only screen and (max-width: 960px) {
+/*
+tablet computer
+*/
+}
+@media only screen and (max-width: 1124px) {
+}
+@media only screen and (max-width: 758px) {
+/*
+vertical tablet computer
+*/
+}
+@media only screen and (max-width: 524px) {
+/*phone*/
+
+}
